@@ -1,6 +1,9 @@
 # WorkoutTracker
+[cinnamon-2024-07-17T123157+0530.webm](https://github.com/user-attachments/assets/b5c48a66-4fb4-48b1-9838-9008f6cfd4d4)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+
+
 
 ## Development server
 
